@@ -5,7 +5,7 @@
    
 **Description** 
 
-An AI-powered design toolkit for product teams — generates complete UI layouts from a product description, creates accessible WCAG-rated colour palettes, and critiques uploaded UI screenshots using vision AI. Built for designers and product managers who want fast, structured feedback at any stage of the design process.
+An AI-powered design toolkit for product teams which generates complete UI layouts from a product description, creates accessible WCAG-rated colour palettes, and critiques uploaded UI screenshots using vision AI. Built for designers and product managers who want fast, structured feedback at any stage of the design process.
 
 **Domain:**
 
@@ -13,7 +13,7 @@ UX / UI Design & Product Development
 
 **Problem solved:** 
 
-Early-stage design work — sketching layouts, picking an accessible colour system, getting a second opinion on a screen — usually requires a designer's time or guesswork. This tool gives product teams, founders, and developers without dedicated design support an instant, structured first pass: a layout plan broken into screens and components, a brand-appropriate colour palette with accessibility ratings built in, and an automated design critique against real UX heuristics. It's the kind of fast feedback loop that speeds up early product iteration before a human designer gets involved.
+Early-stage design work —sketching layouts, choosing an accessible colour system, getting a second opinion on a screen—usually requires a designer's time or guesswork. This tool gives product teams, founders, and developers without dedicated design support an instant, structured first pass: a layout plan broken into screens and components, a brand-appropriate colour palette with accessibility ratings built in, and an automated design critique against real UX heuristics. It's the kind of fast feedback loop that speeds up early product iteration before a human designer gets involved.
 
 **Features**
 
