@@ -1,4 +1,4 @@
-# AI UX/UI Design Assistant
+# UX/UI Design Assistant
 
 -----
 
