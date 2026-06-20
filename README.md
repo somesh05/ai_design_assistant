@@ -17,11 +17,15 @@ Early-stage design work — sketching layouts, picking an accessible colour syst
 
 **Features**
 
--AI Layout Generator — describe a product in plain English, choose a platform (Mobile/Web/Desktop/Tablet) and number of screens, and get a structured screen-by-screen layout: screen names, purpose, and components with labels and design notes
--Accessible Colour Palette Generator — generate a 5-colour brand palette (Primary, Secondary, Accent, Background, Text) from a brand mood, industry, and target audience, with exact HEX/RGB values, WCAG 2.1 AA contrast ratings, and a "colours to avoid" warning
--Vision-Powered Design Critique — upload any UI screenshot (your own design, a competitor's app, any website) and receive a structured critique: overall impression, a 1–10 design maturity score, specific strengths, specific fixes, a full accessibility audit (contrast, touch targets, colour dependence, whitespace), and one prioritised next action
+-AI Layout Generator: describe a product in plain English, choose a platform (Mobile/Web/Desktop/Tablet) and number of screens, and get a structured screen-by-screen layout: screen names, purpose, and components with labels and design notes
+
+-Accessible Colour Palette Generator: generate a 5-colour brand palette (Primary, Secondary, Accent, Background, Text) from a brand mood, industry, and target audience, with exact HEX/RGB values, WCAG 2.1 AA contrast ratings, and a "colours to avoid" warning
+
+-Vision-Powered Design Critique: upload any UI screenshot (your own design, a competitor's app, any website) and receive a structured critique: overall impression, a 1–10 design maturity score, specific strengths, specific fixes, a full accessibility audit (contrast, touch targets, colour dependence, whitespace), and one prioritised next action
+
 -Built-in example prompts on every tab so users can try the tool instantly without writing their own input
--Robust JSON handling — gracefully falls back to raw model output if structured parsing fails, so the app never crashes on a malformed LLM response
+
+-Robust JSON handling: gracefully falls back to raw model output if structured parsing fails, so the app never crashes on a malformed LLM response
 
 **Tech Stack**
 
