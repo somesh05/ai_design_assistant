@@ -25,7 +25,6 @@ Early-stage design work — sketching layouts, picking an accessible colour syst
 
 **Tech Stack**
 
-Layer                                           Technology
 LLM                                   Groq API — llama-3.3-70b-versatile
 Vision model                         Groq API — meta-llama/llama-4-scout-17b-16e-instruct
 Interface                                          Gradio
