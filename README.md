@@ -2,6 +2,8 @@
 
 -----
 
+<img width="1488" height="840" alt="ux_ui_design_assistant" src="https://github.com/user-attachments/assets/8b607e57-972d-4b99-a719-6983357ae67d" />
+
    
 **Description** 
 
@@ -29,10 +31,13 @@ Early-stage design work —sketching layouts, choosing an accessible colour syst
 
 **Tech Stack**
 
-LLM                                   Groq API — llama-3.3-70b-versatile
-Vision model                         Groq API — meta-llama/llama-4-scout-17b-16e-instruct
-Interface                                          Gradio
-Secrets management                              python-dotenv
+LLM:                                   Groq API — llama-3.3-70b-versatile
+
+Vision model:                         Groq API — meta-llama/llama-4-scout-17b-16e-instruct
+
+Interface:                                          Gradio
+
+Secrets management:                              python-dotenv
 
 **How to Run Locally**
 
